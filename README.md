@@ -23,9 +23,9 @@ C:\Users\<felhasználónév>\AppData\Roaming\openlp\data\bibles
 | HUN |
 | IMIT |
 
-### Links
+## Links
 
-* [OpenLP] (https://openlp.org/#downloads)
+* [OpenLP](https://openlp.org/#downloads)
 * [OpenSong](https://opensong.org/downloads/)
-* [Easyslides v5] (https://www.easyslides.com/main/v5/downloads/)
+* [Easyslides v5](https://www.easyslides.com/main/v5/downloads/)
 * [Zefania Bibles](https://github.com/kohelet-net-admin/zefania-xml-bibles/tree/master/Bibles)
