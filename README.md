@@ -1,23 +1,33 @@
-# Hungarian Bibles for OpenLP
+# Hungarian Bibles for OpenLP | Magyar Bibliák OpenLP-hez
 
-## Overview
+## Overview | Áttekintés
 OpenLP Hungarian Bibles backup repo.
 
-## Installation
+OpenLP magyar bibliafájlok biztonsági tárolója.
+
+## Installation | Telepítés
+
+Locations of the Bible files:
 
 A biblia fájlok helyei:
 
 * Windows alatt az OpenLP a bibliákat innen tölti be:
+```bash
 C:\Users\<felhasználónév>\AppData\Roaming\openlp\data\bibles
+```
 
 * Linux alatt:
+```bash
 ~/.local/share/openlp/data/bibles
+```
 
 * macOS alatt:
+```bash
 ~/Library/Application Support/openlp/data/bibles
+```
 
 ## BIBLES
-| Bibles | 
+| Bibliák | 
 | --- | 
 | ERV-HU (EFO) |
 | HUN |
